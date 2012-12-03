@@ -13,10 +13,11 @@ def get_cmc_dict( filename ):
 		if not line:
 			continue
 		if '#' in line:
-			if line.split()[-1] == 'X':
-				cost = 'X'
-			else:
-				cost = int( line.split()[-1] )
+			if '# CMC' in line:
+				if line.split()[-1] == 'X':
+					cost = 'X'
+				else:
+					cost = int( line.split()[-1] )
 			continue
 		cmc[cost].append( line )
 	return cmc
@@ -32,7 +33,9 @@ def show_cmc_plot():
 		print name, sum( counts ) + len( cmc['X'] )
 		color = name
 		if color is 'colorless':
-			color = 'purple'
+			color = 'grey'
+		if color is 'white':
+			color = 'yellow'
 		plt.plot( counts, c=color )
 	plt.show()
 
