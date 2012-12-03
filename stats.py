@@ -40,5 +40,17 @@ def show_cmc_plot():
 	plt.show()
 
 if __name__ == '__main__':
+	# Print the number of lands
+	file = open( 'land' )
+	count = 0
+	for line in file:
+		line = line.rstrip()
+		if '#' in line or len( line ) == 0:
+			continue
+		else:
+			count += 1
+	print "land",count
+
+	# Show the CMC plot
 	show_cmc_plot()
 
