@@ -6,7 +6,6 @@ Carnophage
 Dark Ritual
 Diregraf Ghoul
 Duress
-Guul Draz Assassin
 Imperial Seal
 Innocent Blood
 Inquisition of Kozilek
@@ -18,9 +17,7 @@ Vapiric Tutor
 
 # CMC 2
 Animate Dead
-Bad Moon
 Bitterblossom
-Black Knight
 Blind Creeper
 Bloodghast
 Chainer's Edict
@@ -29,27 +26,27 @@ Dauthi Horror
 Dauthi Slayer
 Demonic Tutor
 Diabolic Edict
-Do or Die
 Doom Blade
 Gatekeeper of Malakir
 Go for the Throat
-Grasp of Darkness
-Hand of Cruelty
 Hymn to Tourach
-Mesmeric Fiend
+Knight of Infamy
 Nantuko Shade
 Nezumi Cutthroat
 Nezumi Graverobber
 Nezumi Shortfang
 Night's Whisper
 Oona's Prowler
+Pack Rat
 Sinkhole
 Terror
-Vampire Hexmage
+Thrill-Kill Assassin
+Vampire Interloper
 
 # CMC 3
 Attrition
 Dauthi Mercenary
+Demonic Taskmaster
 Dismember
 Geralf's Messenger
 Hypnotic Specter
@@ -57,57 +54,48 @@ Liliana of the Veil
 Necromancy
 Phyrexian Arena
 Phyrexian Crusader
-Phyrexian Negator
-Rain of Tears
 Recurring Nightmare
 Stupor
-Tribute to Hunger
 Vampire Nighthawk
-Yawgmoth's Will
-Corpse Dance
 
 # CMC 4
 Abyssal Persecutor
 Bane of the Living
 Barter in Blood
 Damnation
-Dread Return
+Desecration Demon
+Diabolic Servitude
+Graveborn Muse
 Juzam Djinn
 Nekrataal
+Phyrexian Obliterator
 Skinrender
 Snuff Out
 
 # CMC 5
 Hatred
 Bloodgift Demon
-Cao Cao, Lord of Wei
 Drana, Kalastria Bloodchief
 Liliana Vess
 Shriekmaw
-Skithiryx, the Blight Dragon
-Beacon of Unrest
 
 # CMC 6
-Massacre Worm
 Grave Titan
 Kokusho, the Evening Star
-Skeletal Vampire
 Sorin Markov
 Visara the Dreadful
 
 # CMC 7
+Rune-Scarred Demon
 Sheoldred, Whispering One
-Phage the Untouchable
 
 # CMC 8
+Griselbrand
 Tombstalker
-
-# CMC 9
-Demon of Death's Gate
 
 # CMC X
 Black Sun's Zenith
+Death Cloud
 Mind Twist
 Profane Command
-Skeletal Scrying
 

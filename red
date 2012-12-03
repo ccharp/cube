@@ -1,10 +1,8 @@
 # CMC 1
 Burst Lightning
 Chain Lightning
+Faithless Looting
 Firebolt
-Flame Slash
-Galvanic Blast
-Genju of the Spires
 Goblin Guide
 Goblin Patrol
 Grim Lavamancer
@@ -13,97 +11,89 @@ Kird Ape
 Lightning Bolt
 Magus of the Scroll
 Mogg Fanatic
+Reckless Waif
 Rift Bolt
 Spikeshot Elder
+Stonewright
 Stromkirk Noble
+Vexing Devil
 
 # CMC 2
 Arc Trail
+Ash Zealot
 Blood Knight
+Ember Hauler
 Flame Rift
 Goblin Wardriver
+Gore-House Chainwalker
 Hearth Kami
 Hellspark Elemental
 Incinerate
 Kargan Dragonlord
 Keldon Marauders
+Lightning Mauler
 Magma Jet
+Mizzium Mortars
 Plated Geopede
-Price of Progress
-Pyroclasm
 Searing Blaze
-Slith Firewalker
+Searing Spear
 Smash to Smithereens
-Stigma Lasher
 Stormblood Berserker
-Sudden Shock
-Tin Street Hooligan
+Torch Fiend
 
 # CMC 3
-Adamaro, First to Desire
 Avalanche Riders
 Ball Lightning
 Brimstone Volley
 Chandra's Phoenix
 Char
-Cunning Sparkmage
 Flame Javelin
 Goblin Ruinblaster
 Hell's Thunder
-Jaya Ballard, Task Mage
-Magus of the Moon
-Manic Vandal
 Molten Rain
 Pillage
-Pulse of the Forge
-Puncture Blast
-Rivalry
-Seething Song
 Slagstorm
 Squee, Goblin Nabob
 Staggershock
 Stone Rain
 Sulfuric Vortex
-Traitorous Blood
 Wheel of Fortune
-Zo-Zu the Punisher
 
 # CMC 4
-Blistering Firecat
+Archwing Dragon
 Chandra, the Firebrand
 Flametongue Kavu
-Hero of Oxid Ridge
+Hellrider
+Hound of Griselbrand
+Instigator Gang
 Keldon Champion
 Koth of the Hammer
-Skizzik
+Sneak Attack
 Splinter Twin
-Thoughts of Ruin
 
 # CMC 5
 Act of Aggression
 Chandra Nalaar
-Ingot Chewer
 Kiki-Jiki, Mirror Breaker
 Siege-Gang Commander
+Thundermaw Hellkite
 Urabrask the Hidden
+Zealous Conscripts
 
 # CMC 6
 Fireblast
-Jokulhaups
+Thunderous Wrath
 
 # CMC 8
 Akroma, Angel of Fury
-Bogardan Hellkite
-Obliterate
 
 # CMC 10
 Greater Gargadon
 
 # CMC X
 Banefire
+Bonfire of the Damned
 Devil's Play
-Disintegrate
-Earthquake
 Rolling Earthquake
 Starstorm
 
