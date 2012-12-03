@@ -50,6 +50,17 @@ if __name__ == '__main__':
 		else:
 			count += 1
 	print "land",count
+	# Print the number of multicolor cards
+	file = open( 'gold' )
+	count = 0
+	for line in file:
+		line = line.rstrip()
+		if '#' in line or len( line ) == 0:
+			continue
+		else:
+			count += 1
+	print "gold",count
+
 
 	# Show the CMC plot
 	show_cmc_plot()
